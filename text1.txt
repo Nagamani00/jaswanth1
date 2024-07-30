@@ -1,3 +1,4 @@
 i love chicken biryani
 rbg tecnologies
 nagi
+git init
